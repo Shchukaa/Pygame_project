@@ -95,4 +95,5 @@ while running:
     tiles_group.draw(screen)
     pygame.display.flip()
     clock.tick(FPS)
+
 terminate()
